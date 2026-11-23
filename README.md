@@ -69,9 +69,6 @@ Install dependencies from `desktop/requirements.txt`, then run the dashboard fro
 - The STL files do not encode physical units. Confirm intended units, dimensions, fit, sealing, and print tolerances.
 - Perform controlled tests and independent validation before considering any field deployment.
 
-## Project team
-
-The original presentation identifies the project as an EE3030A project at IIT Palakkad (2026). See the original presentation in `docs/Original_Project_Presentation.pdf` for the team and project framing.
 
 ## License
 
