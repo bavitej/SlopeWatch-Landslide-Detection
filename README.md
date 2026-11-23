@@ -13,6 +13,16 @@ The photos below show the physical pipe/enclosure assembly and exposed sensor wi
   <img src="hardware/prototype_photo_2.jpg" alt="SlopeWatch prototype: PVC pipe, enclosure and cable connection" width="46%">
 </p>
 
+## Dashboard UI
+
+The dashboard screenshot below is a **sample preview using example data**; it is not a live connected monitoring session.
+
+<p align="center">
+  <img src="docs/assets/dashboard_preview.jpg" alt="SlopeWatch desktop dashboard UI preview" width="95%">
+</p>
+
+[View the dashboard decision-logic panel](docs/assets/dashboard_logic_preview.jpg)
+
 ## Repository contents
 
 - `firmware/` — PlatformIO firmware project for STM32F411CE.
