@@ -4,6 +4,15 @@ A low-cost prototype for monitoring ground tilt/movement and soil moisture using
 
 > **Project status:** academic prototype / engineering review. This repository is not a certified landslide warning product and must not be used as the sole basis for evacuation or public-safety decisions.
 
+## Prototype photos
+
+The photos below show the physical pipe/enclosure assembly and exposed sensor wiring during laboratory prototyping.
+
+<p align="center">
+  <img src="hardware/prototype_photo_1.jpg" alt="SlopeWatch prototype: enclosure and sensor wiring" width="46%">
+  <img src="hardware/prototype_photo_2.jpg" alt="SlopeWatch prototype: PVC pipe, enclosure and cable connection" width="46%">
+</p>
+
 ## Repository contents
 
 - `firmware/` — PlatformIO firmware project for STM32F411CE.
