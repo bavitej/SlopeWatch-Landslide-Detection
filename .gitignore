@@ -1,1 +1,6 @@
-þiíýÖ­kû%¢—°j×!º™hißì–Š^Á«\†­†æëzš?‚+b‚z+
+.venv/
+__pycache__/
+*.py[cod]
+.pio/
+.vscode/
+.DS_Store
